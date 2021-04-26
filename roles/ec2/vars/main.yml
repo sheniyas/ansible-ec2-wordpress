@@ -1,7 +1,7 @@
 env           : "test"
-aws_region    : "US East"
+aws_region    : "us-east-2"
 instance_type : "t2.micro"
 instance_count: 1
-ami           : "ami-f95ef58a"
+ami           : "ami-03d64741867e7bb94"
 keypair       : "demo-keypair"
 group_id      : "sg-3cf0b348"
