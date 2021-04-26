@@ -1,5 +1,5 @@
 env           : "test"
-aws_region    : "US East (Ohio)"
+aws_region    : "us-east-2a"
 instance_type : "t2.micro"
 instance_count: 1
 ami           : "ami-f95ef58a"
